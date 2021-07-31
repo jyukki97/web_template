@@ -3,8 +3,8 @@
 
 ## Stripe
 
-![Stripe](.images/stripe_thumbnail.jpg)
+![Stripe](./images/stripe_thumbnail.jpg)
 
 ## Rent
 
-![Rent](.images/rent_thumbnail.PNG)
+![Rent](./images/rent_thumbnail.PNG)
